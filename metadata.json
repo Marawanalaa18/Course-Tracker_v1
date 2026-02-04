@@ -1,0 +1,5 @@
+{
+  "name": "Course Tracker",
+  "description": "A clean, distraction-free React application to organize, track, and complete online courses. Features progress visualization, lesson management, and AI-powered lesson planning.",
+  "requestFramePermissions": []
+}
